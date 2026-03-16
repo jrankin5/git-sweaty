@@ -13791,5 +13791,18 @@
     "start_date_local": "2026-03-15T10:14:36",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 16510.880859375,
+    "elevation_gain": 159.0,
+    "id": "22190838533",
+    "moving_time": 4732.780059814453,
+    "name": "New York - 10 Miles - Aerobic",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-16T06:33:33",
+    "type": "Run",
+    "year": 2026
   }
 ]

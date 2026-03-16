@@ -9548,6 +9548,15 @@
       "type": "WeightTraining",
       "url": "https://connect.garmin.com/modern/activity/22183277120",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 6,
+      "name": "New York - 10 Miles - Aerobic",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/22190838533",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18520,6 +18529,15 @@
           "distance": 11294.8095703125,
           "elevation_gain": 59.0,
           "moving_time": 3349.406982421875
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "22190838533"
+          ],
+          "count": 1,
+          "distance": 16510.880859375,
+          "elevation_gain": 159.0,
+          "moving_time": 4732.780059814453
         }
       },
       "VirtualRide": {
@@ -18846,7 +18864,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/a714f6b5-1fce-4ac3-82e3-f74343335f5b",
-  "generated_at": "2026-03-15T18:24:33.367431+00:00",
+  "generated_at": "2026-03-16T13:27:18.914226+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/a714f6b5-1fce-4ac3-82e3-f74343335f5b",
   "repo": "jrankin5/git-sweaty",
