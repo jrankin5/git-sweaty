@@ -13804,5 +13804,18 @@
     "start_date_local": "2026-03-16T06:33:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 24186.990234375,
+    "elevation_gain": 231.0,
+    "id": "22202103722",
+    "moving_time": 6773.721954345703,
+    "name": "New York - 15 Mile - Mid Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-03-17T06:07:25",
+    "type": "Run",
+    "year": 2026
   }
 ]
